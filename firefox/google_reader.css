@@ -1,0 +1,13 @@
+@charset       "UTF-8";
+@namespace url(http://www.w3.org/1999/xhtml);
+@-moz-document url-prefix("https://www.google.com/reader/view/"),
+               url-prefix("http://www.google.com/reader/view/"),
+			   /* It changes to the domain in your country */
+			   url-prefix("https://www.google.com.cn/reader/view/"),
+			   url-prefix("http://www.google.com.cn/reader/view/") {
+div.item-body {
+	font-family: "Microsoft Yahei", "Helvetica Neue", "Luxi Sans", "DejaVu Sans", Tahoma, "Hiragino Sans GB", STHeiti !important;
+	font-size: 16px;
+	width: 110%;
+}
+}

@@ -1,0 +1,12 @@
+body {
+	zoom: 100%;
+}
+@font-face {
+	font-family: sans-serif;
+	src: local("Microsoft Yahei");
+}
+
+@font-face {
+	font-family: serif;
+	src: local("Helvetica Neue");
+}

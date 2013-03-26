@@ -1,0 +1,13 @@
+@charset       "UTF-8";
+@namespace url(http://www.w3.org/1999/xhtml);
+@-moz-document domain("douban.com") {
+#link-report {
+	font-size: 14px !important;
+}
+div.intro {
+	font-size: 14px !important;
+}
+div.info p {
+	font-size: 14px !important;
+}
+}

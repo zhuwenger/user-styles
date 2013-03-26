@@ -1,0 +1,14 @@
+@charset       "UTF-8";
+@namespace url(http://www.w3.org/1999/xhtml);
+@-moz-document url-prefix("http://www.cnbeta.com/articles/") {
+#news_content {
+	font-family: "Microsoft Yahei", "Helvetica Neue", "Luxi Sans", "DejaVu Sans", Tahoma, "Hiragino Sans GB", STHeiti !important;
+	font-size: 15px !important;
+}
+div#news_content p {
+}
+dd.re_detail {
+	font-family: "Microsoft Yahei", "Helvetica Neue", "Luxi Sans", "DejaVu Sans", Tahoma, "Hiragino Sans GB", STHeiti !important;
+	font-size: 13.5px;
+}
+}

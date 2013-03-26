@@ -1,0 +1,7 @@
+@charset       "UTF-8";
+@namespace url(http://www.w3.org/1999/xhtml);
+@-moz-document domain("ruanyifeng.com") {
+#main-content {
+	font-family: "Helvetica Neue", "Microsoft Yahei", "Luxi Sans", "DejaVu Sans", Tahoma, "Hiragino Sans GB", STHeiti !important;
+}
+}
