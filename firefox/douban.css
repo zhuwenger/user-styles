@@ -1,7 +1,7 @@
 @charset       "UTF-8";
 @namespace url(http://www.w3.org/1999/xhtml);
 @-moz-document domain("douban.com") {
-#link-report, div.intro, div.content p, div.comment p, div.wr, div.indent, div.review-short span, div.reading-note, div.review-content {
+#link-report, div.intro, div.content p, div.comment p, div.wr, div.indent, div.review-short span, div.reading-note, div.review-content, div.exp-content {
   font-size: 14px !important;
 }
 }
